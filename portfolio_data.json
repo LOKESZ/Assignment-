@@ -1,0 +1,35 @@
+The following JSON structure contains transaction data for the portfolio:
+
+```json
+{
+  "fromDate": "01-Jan-2018",
+  "data": [
+    {
+      "dtSummary": [
+        {
+          "trxnDate": "13-AUG-2019",
+          "scheme": "02GZ",
+          "trxnDesc": "Purchase",
+          "schemeName": "Aditya Birla Sun Life ELSS Tax Saver Fund- (ELSS U/S 80C of IT ACT) - Growth-Direct Plan",
+          "purchasePrice": "30.56",
+          "trxnUnits": "32.723",
+          "trxnAmount": "1000.00",
+          "folio": "1039101537",
+          "isin": "INF209K01UN8"
+        },
+        {
+          "trxnDate": "20-JAN-2020",
+          "scheme": "02GZ",
+          "trxnDesc": "Sell",
+          "schemeName": "Aditya Birla Sun Life ELSS Tax Saver Fund- (ELSS U/S 80C of IT ACT) - Growth-Direct Plan",
+          "purchasePrice": "67.58",
+          "trxnUnits": "-10.000",
+          "trxnAmount": "-675.80",
+          "folio": "1039101537",
+          "isin": "INF209K01UN8"
+        }
+        // Add more transactions as needed
+      ]
+    }
+  ]
+}
