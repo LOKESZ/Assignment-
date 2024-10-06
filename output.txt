@@ -1,0 +1,6 @@
+Portfolio XIRR: 12.34%
+Total Portfolio Value: 12345.67
+Total Portfolio Gain: 567.89
+Portfolio Details:
+ISIN: INF209K01UN8, Remaining Units: 22.723, Current Value: 1234.56, Gain: 78.90
+...
